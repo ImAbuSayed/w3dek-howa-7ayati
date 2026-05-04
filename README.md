@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي اللي سحرني
+> أنا في غرامك دايم وهايم
+> شوقي بقلبي زاد و أسرني
+> في بحر حبك عاشق و عايم
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
