@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/w3dek-howa-7ayati/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for W3dek Howa 7ayati](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get a Licensing Quote for W3dek Howa 7ayati](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
